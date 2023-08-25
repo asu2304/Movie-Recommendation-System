@@ -26,7 +26,7 @@ Scikit-learn
 To install the content-based movie recommendation system, follow these steps:
 
 Clone the repository to your local system using the following command:
-git clone https://github.com/your-username/content-based-movie-recommendation.git
+git clone https://github.com/asu2304/Movie-Recommendation-System.git
 
 
 Download the TMDB 5000 Movie Dataset from Kaggle and place the movies_metadata.csv and credits.csv files in the data directory of the repository.
